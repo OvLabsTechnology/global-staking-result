@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.eb50f2c9.chunk.css",
+    "main.js": "/static/js/main.b8e6f85f.chunk.js",
+    "main.js.map": "/static/js/main.b8e6f85f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.08829427.js",
+    "runtime-main.js.map": "/static/js/runtime-main.08829427.js.map",
+    "static/css/2.0a0ce284.chunk.css": "/static/css/2.0a0ce284.chunk.css",
+    "static/js/2.2a607856.chunk.js": "/static/js/2.2a607856.chunk.js",
+    "static/js/2.2a607856.chunk.js.map": "/static/js/2.2a607856.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.0a0ce284.chunk.css.map": "/static/css/2.0a0ce284.chunk.css.map",
+    "static/css/main.eb50f2c9.chunk.css.map": "/static/css/main.eb50f2c9.chunk.css.map",
+    "static/js/2.2a607856.chunk.js.LICENSE.txt": "/static/js/2.2a607856.chunk.js.LICENSE.txt",
+    "static/media/DAI.253a4d84.svg": "/static/media/DAI.253a4d84.svg",
+    "static/media/EuclidSquare-Bold.22d0be7b.woff": "/static/media/EuclidSquare-Bold.22d0be7b.woff",
+    "static/media/EuclidSquare-Italic.2537e631.woff": "/static/media/EuclidSquare-Italic.2537e631.woff",
+    "static/media/EuclidSquare-Light.62b29a70.woff": "/static/media/EuclidSquare-Light.62b29a70.woff",
+    "static/media/EuclidSquare-Medium.8026c8db.woff": "/static/media/EuclidSquare-Medium.8026c8db.woff",
+    "static/media/EuclidSquare-Regular.5c5dedb1.woff": "/static/media/EuclidSquare-Regular.5c5dedb1.woff",
+    "static/media/EuclidSquare-SemiBold.1d008e5f.woff": "/static/media/EuclidSquare-SemiBold.1d008e5f.woff",
+    "static/media/FRAX.64619254.svg": "/static/media/FRAX.64619254.svg",
+    "static/media/LUSD.7b1c3137.svg": "/static/media/LUSD.7b1c3137.svg",
+    "static/media/OHM-FRAX.56b8a6a6.svg": "/static/media/OHM-FRAX.56b8a6a6.svg",
+    "static/media/OHM-LUSD.c9764b6d.svg": "/static/media/OHM-LUSD.c9764b6d.svg",
+    "static/media/Olympus Logo.79e4d282.svg": "/static/media/Olympus Logo.79e4d282.svg",
+    "static/media/style.scss": "/static/media/unhappy.256fe317.svg",
+    "static/media/stake.scss": "/static/media/nft_item_background.670ac938.webp",
+    "static/media/logo.5e02a71f.png": "/static/media/logo.5e02a71f.png",
+    "static/media/logo.6bd8e4e9.svg": "/static/media/logo.6bd8e4e9.svg",
+    "static/media/notifications.css": "/static/media/notification.c5d9251e.ttf",
+    "static/media/wETH.eac542b1.svg": "/static/media/wETH.eac542b1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.08829427.js",
+    "static/css/2.0a0ce284.chunk.css",
+    "static/js/2.2a607856.chunk.js",
+    "static/css/main.eb50f2c9.chunk.css",
+    "static/js/main.b8e6f85f.chunk.js"
+  ]
+}
